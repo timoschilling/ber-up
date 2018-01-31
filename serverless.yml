@@ -8,7 +8,7 @@ provider:
   profile: sls-private
 
 functions:
-  luckyNumber:
-    handler: handler.luckyNumber
+  berUp:
+    handler: handler.berUp
     events:
       - alexaSkill

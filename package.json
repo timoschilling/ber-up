@@ -1,7 +1,7 @@
 {
   "name": "ber-up",
   "version": "1.0.0",
-  "description": "This example demonstrates how to use an AWS Lambdas for your custom Alexa skill.",
-  "author": "",
+  "description": "Alexa Skill which tells you if the BER airport operates or not.",
+  "author": "Timo Schilling",
   "license": "MIT"
 }
