@@ -6,7 +6,7 @@ module.exports.berUp = (event, context, callback) => {
     response: {
       outputSpeech: {
         type: 'PlainText',
-        text: '',
+        text: 'Nein',
       },
       shouldEndSession: false,
     },
